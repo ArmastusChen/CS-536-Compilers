@@ -1,0 +1,13 @@
+my name: brett percy
+my login: percy
+
+partner name: brendon lapp
+partner login: blapp
+
+How to invoke program:
+	navigate to /files directory
+	type "make"
+	to run test without errors and correct implementations
+		type "make test"
+
+
